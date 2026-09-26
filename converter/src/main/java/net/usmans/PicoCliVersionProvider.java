@@ -1,4 +1,4 @@
-// Copyright 2025, Usman Saleem.
+// Copyright 2025, Hyperoz Labs.
 // SPDX-License-Identifier: (Apache-2.0 OR MIT)
 package net.usmans;
 
