@@ -1,4 +1,4 @@
-// Copyright 2020, Usman Saleem.
+// Copyright 2020, Hyperoz Labs.
 // SPDX-License-Identifier: (Apache-2.0 OR MIT)
 package tech.pegasys.teku.bls.keystore.model;
 
